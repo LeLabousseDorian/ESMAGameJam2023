@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="ParameterPreset" id="{a83cd35e-8d3e-451d-a910-da4a0c80e588}">
 		<property name="name">
-			<value>speed</value>
+			<value>Height</value>
 		</property>
 		<relationship name="folder">
 			<destination>{bdff8188-556a-4e98-869a-d42e30a4535f}</destination>
@@ -13,7 +13,7 @@
 	</object>
 	<object class="GameParameter" id="{8f7291c1-a9ce-460c-a14e-2608dd6516fa}">
 		<property name="maximum">
-			<value>10000</value>
+			<value>9</value>
 		</property>
 		<property name="initialValue">
 			<value>0</value>

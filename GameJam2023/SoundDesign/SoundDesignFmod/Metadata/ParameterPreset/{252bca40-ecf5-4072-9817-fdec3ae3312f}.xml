@@ -1,20 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.02.00">
-	<object class="ParameterPreset" id="{a83cd35e-8d3e-451d-a910-da4a0c80e588}">
+	<object class="ParameterPreset" id="{252bca40-ecf5-4072-9817-fdec3ae3312f}">
 		<property name="name">
-			<value>Height</value>
+			<value>Force</value>
 		</property>
 		<relationship name="folder">
 			<destination>{bdff8188-556a-4e98-869a-d42e30a4535f}</destination>
 		</relationship>
 		<relationship name="parameter">
-			<destination>{8f7291c1-a9ce-460c-a14e-2608dd6516fa}</destination>
+			<destination>{ad48f4fb-d43e-4827-9af6-b53e649a78fa}</destination>
 		</relationship>
 	</object>
-	<object class="GameParameter" id="{8f7291c1-a9ce-460c-a14e-2608dd6516fa}">
-		<property name="maximum">
-			<value>9</value>
-		</property>
+	<object class="GameParameter" id="{ad48f4fb-d43e-4827-9af6-b53e649a78fa}">
 		<property name="initialValue">
 			<value>0</value>
 		</property>
